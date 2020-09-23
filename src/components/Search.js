@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import EmployeeRow from "./EmployeeRow";
 import moment from "moment";
 import API from "../utils/API";
-import SearchBox from "./SeachBox";
+import SearchBox from "./SearchBox";
 import Titles from "./Titles";
 
 class Search extends Component {
